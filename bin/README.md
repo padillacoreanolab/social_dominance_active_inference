@@ -18,18 +18,4 @@ conda install -c conda-forge git --yes
 conda install -c conda-forge gitpython --yes
 conda install -c conda-forge openpyxl --yes
 conda install -c conda-forge h5py --yes
-
-
-
-# OLD BELOW
-conda install -c conda-forge openpyxl --yes
-conda install -c conda-forge opencv --yes
-conda install -c conda-forge scikit-learn --yes
-conda install -c conda-forge umap-learn --yes
-conda install -c conda-forge bokeh --yes
-conda install -c conda-forge git --yes
-conda install -c conda-forge gitpython --yes
-conda install -c conda-forge moviepy
-pip install medpc2excel
-conda install -c conda-forge xlrd --yes
 ```
