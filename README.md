@@ -12,6 +12,7 @@
 - 3. Run the [notebook that combines the weights, ELO Score, and SLEAP data](./results/2023_09_18_pilot_3_elo_rating_calculation/pilot_3_consolidation.ipynb)
 
 ## Dataframe Overview
+- The main dataframe with the weight, ELO Score, and reward competition SLEAP data is `results/2023_09_18_pilot_3_elo_rating_calculation/elo_score_and_rc_distance.pkl`
 - Each row is one subject's information for one trial for any experiment
   - Because we are looking at social dominance/competition, each trial will have two rows. One for each subject.
 
