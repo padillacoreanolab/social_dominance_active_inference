@@ -1,4 +1,4 @@
-# Social Dominance Active Inference
+# Social competition video and behavior dataset
 
 ## Pilot 3
 - 6 cages of mice with 4 mice in each cage
